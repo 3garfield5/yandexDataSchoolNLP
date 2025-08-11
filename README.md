@@ -13,3 +13,7 @@ seminar: Large scale text analysis with deep learning
 homework: Neural network
 
 seminar: N-gram language models or how to write scientific papers
+
+## Week 4 - sequence to sequence 
+homework: Encoder-Decoder neural networks
+
