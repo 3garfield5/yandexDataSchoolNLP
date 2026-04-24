@@ -18,7 +18,7 @@ seminar: N-gram language models or how to write scientific papers
 homework: Encoder-Decoder neural networks
 
 ## Week 5 - transfer learning 
-homework: 
+homework: Question search engine
 
 seminars: Using pre-trained transformers
 
