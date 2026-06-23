@@ -22,3 +22,6 @@ homework: Question search engine
 
 seminars: Using pre-trained transformers
 
+## Week 6 - LLM
+practice: Large Language Models and Their Implications
+
